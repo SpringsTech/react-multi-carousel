@@ -1,5 +1,5 @@
 {
-  "name": "react-multi-carousel",
+  "name": "springstech-react-multi-carousel",
   "private": false,
   "version": "2.6.5",
   "description": "Production-ready, lightweight fully customizable React carousel component that rocks supports multiple items and SSR(Server-side rendering) with typescript.",
